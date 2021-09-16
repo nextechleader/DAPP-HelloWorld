@@ -1,4 +1,4 @@
-# helloworld
+# HelloWorld
 Creamos nuestro primer proyecto de Aplicación descentralizada el famoso Hello World 💻, en NexTechLeaders.
 
 1/ Smart Contract (Contrato inteligente) con Solidity
